@@ -1,0 +1,48 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI Nasional
+https://tvri.co.id/stream.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="" group-title="NASIONAL",TVRI Nasional
+https://tvri.co.id/stream.m3u8
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://logo.png" group-title="NASIONAL",TVRI Nasional
+https://link-stream-nya-disini.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORT",Sport Contoh
+https://link-stream-nya-disini.m3u8
+#EXTM3U
+#EXTINF:-1 group-title="GRATIS", TVRI NASIONAL
+https://GANTI-DENGAN-LINK-RESMI-TVRI.m3u8
+#EXTINF:-1 group-title="GRATIS", Kompas TV
+https://GANTI-DENGAN-LINK-RESMI-KOMPAS.m3u8
+#EXTINF:-1 group-title="GRATIS", Metro TV
+https://GANTI-DENGAN-LINK-RESMI-METRO.m3u8
+#EXTINF:-1 group-title="GRATIS", tvOne
+https://GANTI-DENGAN-LINK-RESMI-TVONE.m3u8
+#EXTINF:-1 group-title="GRATIS", Nusantara TV
+https://GANTI-DENGAN-LINK-RESMI-NTV.m3u8
+#EXTINF:-1 group-title="GRATIS", Garuda TV
+https://GANTI-DENGAN-LINK-RESMI-GARUDA.m3u8
+#EXTINF:-1 group-title="GRATIS", DAAI TV
+https://GANTI-DENGAN-LINK-RESMI-DAAI.m3u8
+#EXTINF:-1 group-title="GRATIS", Elshinta TV
+https://GANTI-DENGAN-LINK-RESMI-ELSHINTA.m3u8
+#EXTINF:-1 group-title="SPORT PREMIUM", beIN SPORT 1
+https://GANTI-LINK-RESMI-BEIN1.m3u8
+#EXTINF:-1 group-title="SPORT PREMIUM", beIN SPORT 2
+https://GANTI-LINK-RESMI-BEIN2.m3u8
+#EXTINF:-1 group-title="SPORT PREMIUM", beIN SPORT 3
+https://GANTI-LINK-RESMI-BEIN3.m3u8
+#EXTINF:-1 group-title="SPORT PREMIUM", beIN SPORT 4
+https://GANTI-LINK-RESMI-BEIN4.m3u8
+#EXTINF:-1 group-title="SPORT", TNT Sports
+https://GANTI-LINK-RESMI-TNT.m3u8
+#EXTINF:-1 group-title="SPORT", TSN
+https://GANTI-LINK-RESMI-TSN.m3u8
+#EXTINF:-1 group-title="SPORT", Sport Channel
+https://GANTI-LINK-RESMI-SPORTCHANNEL.m3u8
+#EXTINF:-1 group-title="SPORT", ESPN
+https://GANTI-LINK-RESMI-ESPN.m3u8
+#EXTINF:-1 group-title="SPORT", Astro Channel
+https://GANTI-LINK-RESMI-ASTRO.m3u8
+#EXTINF:-1 group-title="SPORT", Saudi Pro League / Arab Saudi
+https://GANTI-LINK-RESMI-ARABSAUDI.m3u8
